@@ -1,0 +1,9 @@
+{
+  "name": "js-dom-manipulation-small-programs",
+  "version": "1.0.0",
+  "description": "5 Small Programs covering DOM Selection, Content, Styles, Creation, and Removal",
+  "main": "01-selecting-elements.html",
+  "scripts": {
+    "start": "echo 'Open any .html file directly in your browser or with VS Code Live Server!'"
+  }
+}
